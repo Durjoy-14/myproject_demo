@@ -116,3 +116,5 @@ After changing a setting, close the controller window and start it again.
 - Python 3.8 or newer
 - PC and phone on the same Wi-Fi network
 - Internet on the PC for the first run only (to install `segno` and `pillow`)
+Author - Nr Durjoy
+
